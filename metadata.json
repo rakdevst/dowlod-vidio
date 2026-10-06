@@ -1,0 +1,6 @@
+{
+  "name": "Video Stream & Media Analyzer",
+  "description": "Fondasi sistem penganalisis dan pengunduh video berbasis arsitektur client-server transparan dan aman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
